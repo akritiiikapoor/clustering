@@ -14,7 +14,9 @@ The dataset contains medical attributes like age, cholesterol, and blood pressur
 Clustering Algorithms:
 
 K-Means: Clusters the data into 3 groups.
+
 Hierarchical (Agglomerative) Clustering: Creates 3 clusters for comparison.
+
 Mean Shift: Dynamically estimates clusters (adjusted with custom bandwidth).
 
 Evaluation Metrics:
