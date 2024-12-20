@@ -8,9 +8,9 @@ This project implements **clustering algorithms** to analyze a **synthetic heart
 - **Calinski-Harabasz Index**
 - **Davies-Bouldin Index**
 
-![Screenshot 2024-10-21 022454](https://github.com/user-attachments/assets/5d757cb9-3dd4-498f-afaa-eb686c4f32d7)
----
 
+---
+![Screenshot 2024-10-21 022454](https://github.com/user-attachments/assets/5d757cb9-3dd4-498f-afaa-eb686c4f32d7)
 ### **Dataset**
 
 The dataset contains medical attributes such as **age**, **cholesterol**, and **blood pressure**, with a **target variable** indicating the presence of **heart disease**.
