@@ -44,5 +44,3 @@ The clustering methods are evaluated based on the following performance metrics:
 Each clustering method is **evaluated**, and visualizations are provided for the **2D PCA-reduced data**, allowing for an easy comparison of the clustering quality.  
 
 ---
-
-This project provides insights into the performance of different clustering algorithms for heart disease data and helps determine the best method for such analyses. 🚀
